@@ -1,0 +1,28 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, sans-serif;
+    color: #333;
+  }
+  
+  h1, h2, h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    color: #666;
+  }
+  
+  #header {
+    background-color: #f7f7f7;
+    padding: 20px;
+  }
+  
+  #content {
+    padding: 20px;
+  }
+  
+  #custom-background {
+    background-image: url("my-background.jpg");
+    background-size: cover;
+    padding: 20px;
+  }
+  
+  .styled-div {
+    background-color: #ddd
+  
